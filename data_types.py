@@ -19,3 +19,6 @@ print(f,type(f),"\n")
 g={"name":"Bhavya","surname":"Modh"}
 print(g["name"])
 print(g["surname"])
+# h=set()
+h={"babes",3,"linkesh"}
+print(h,type(h),"\n")
