@@ -22,3 +22,11 @@ add() #Ahiya add(),function ni andar call thay che.
 #     print("addition", a)
 
 # Ahiya a = 5+10 ane print() function ni andar che because te indent che.
+
+a=4
+b=6
+c=10
+print(max(a,b,c)) #max is the function that is used to get max number
+print(min(a,b,c)) #min is the function that is used to get min number
+d=["brother","sister","girlfriend","wife","mother"]
+print(sorted(d))
