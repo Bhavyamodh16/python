@@ -28,7 +28,7 @@ print("\n")
 print(len("hello bhavya")) #returns the number of elements in an object means how many words are there hello=5 bhavya=6 and one space
 print("HELLO".lower()) #this makes the string upper all cases same for lower ig
 ind=["hello"]
-print(ind[1]) #index this process is indexing h=0 e=1
+print(ind[0]) #index this process is indexing h=0 e=1
 print(ind.index("hello"))
 ind[0]="B" #this throws an error bcz list is immutable
 change_string=["h","e","l","l","o"]
