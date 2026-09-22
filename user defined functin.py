@@ -8,5 +8,6 @@ for i in range(3):
     n=int(input("Enter the Electricity units consumed:-"))
     bill=10*n
     print("You need to pay",bill)
+    details()
 
 
