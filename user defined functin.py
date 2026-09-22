@@ -4,9 +4,9 @@ def details():
     print("Pay Your bill on time")
 
 for i in range(3):
-    a=input("enter your name")
-    n=int(input("Enter the Electricity units consumed"))
+    a=input("enter your name:-")
+    n=int(input("Enter the Electricity units consumed:-"))
     bill=10*n
     print("You need to pay",bill)
-    
+
 
